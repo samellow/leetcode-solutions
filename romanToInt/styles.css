@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+input {
+    margin-bottom: 20px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px gray;
+
+}
+button {
+    border: solid 1px gray;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: rgb(130, 212, 212);
+    
+}
+
+p {
+    font-size: 20px;
+}
+span {
+    color: coral;
+}
